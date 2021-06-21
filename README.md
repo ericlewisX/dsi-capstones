@@ -11,4 +11,4 @@ Capstone 3 Proposals -
 
 Capstone 1 : Gender vs Phobias
 
-    https://github.com/ericlewisX/gender-vs-fear
+https://github.com/ericlewisX/gender-vs-fear
