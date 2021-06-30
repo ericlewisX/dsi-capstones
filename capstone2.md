@@ -9,10 +9,9 @@ Dataset : https://www.kaggle.com/wanderdust/coin-images
     * Can use a picture of a pile of coins to get an estimate of its value (or hopefully use a camera dynamically).
     * Return frequency of each coin. 
   * Possible hurdles : 
-    * Since each target is a pile of coins, I might need to make a better dataset, where the feature matrix's data points is an image of a pile. 
+    * Since each target is a pile of coins, I might need to make a better dataset, where the feature matrix's data points are images of a pile. 
     * The target would be the value of the coins. 
     * Unless I find a better way, there might be deficiencies in using edge detection to measure depths from a 2d image (in the case of overlapping coins).               
-
 Note: I want to do this one because it seems fun, but it doesn't seem to have much depth or application to a business-use case. I was thinking of a side-project
       at the very least but would like an outside opinion on it.
 
