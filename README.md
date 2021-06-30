@@ -1,5 +1,5 @@
 # dsi_capstones
-A repo solely for capstone proposals and links to the finished project. 
+A repo solely for capstone proposals. <!-- and links to the finished project. -->
 
 Capstone 1 Proposals - https://github.com/ericlewisX/dsi_capstones/blob/main/capstone1.md
 
