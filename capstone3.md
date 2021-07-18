@@ -4,7 +4,7 @@
 
 Dataset : 
 
-* I would use a Convolutional Neural Network on this dataset and predict the value of a pile of coins. 
+<!-- * I would use a Convolutional Neural Network on this dataset and predict the value of a pile of coins. 
   * The goals:
     * Be able to use a picture of a pile of coins to get an estimate of its value (or hopefully use a camera dynamically).
     * Return frequency of each coin. 
@@ -15,25 +15,25 @@ Dataset :
    
 Note: I want to do this one because it seems fun, but it doesn't seem to have much depth or application to a business-use case. I was thinking of a side-project
       at the very least but would like an outside opinion if possible.
-
+ -->
 ### Proposal 2 : 
 
 Dataset : 
 
-* I intend on using a large dataset of features (such as bars, tempo, etc.) of random songs and generate a model that can predict how well a new song will do.
+<!-- * I intend on using a large dataset of features (such as bars, tempo, etc.) of random songs and generate a model that can predict how well a new song will do.
   * This original dataset is 300 gb large. I will be using a readily available 2.7gb worth of data to generate my feature matrix. 
   * I will webscrape the historical records of Top Song Charts to use as my target matrix. 
   * The goals: 
     * Make a model that can predict how well a song will do on a Top Chart. 
     * Find out which (if any) features are significant in making a hit. 
   * EXTRA : Use web scraping for each song's lyrics and Natural Language Processing to see which ideas/sentiment float to the top of the charts. 
-
+ -->
 ### Proposal 3 : 
 
 Dataset : 
-
+<!-- 
 * I would build a model that can differentiate between normal cells and myeloblasts(leukemia blast).
   * The goal:
     * A model that can flag worrisome cells a lot faster than a human can.  
 
-(I intend to do all of these eventually, but would like to prioritze the most attractive project to prospective employers.)
+(I intend to do all of these eventually, but would like to prioritze the most attractive project to prospective employers.) -->
