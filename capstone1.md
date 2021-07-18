@@ -18,7 +18,7 @@ Dataset : https://www.kaggle.com/brunotly/foreign-exchange-rates-per-dollar-2000
 * I was going to use both datasets to see if the amount of travelers to certain countries have a profound effect on that country's currency value.
 * The conclusions can be used to see if cross-country travel plans are a viable metric to consider when Forex trading.
 
-### Proposal 3 :
+### Proposal 3 : Demographics of an Individual Hypothesis Testing
 
 Dataset : https://www.kaggle.com/miroslavsabo/young-people-survey?select=responses.csv
 
