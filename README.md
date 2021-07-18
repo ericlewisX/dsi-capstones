@@ -14,7 +14,7 @@ A repo solely for capstone proposals and links to the finished project or phases
   - Is your Song a Banger or a Dud 
     - Phase 1
       - [Is your Song a Banger or a Dud?]() - Last Updated : July 17, 2021
-    - Finished Project : [Song Success Predictor Interactive Web API](pass)
+    - Finished Project : [Song Success Predictor Interactive Web API](https://github.com/ericlewisX/is-your-song-a-banger-or-a-dud)
 
 #### Capstone 3 Proposals - 
 
