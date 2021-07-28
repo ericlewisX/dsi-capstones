@@ -1,39 +1,27 @@
 ## DSI Capstone 3 Proposal
 
-### Proposal 1 : 
+### Proposal 1 : Coloring Within the Lines
 
-Dataset : 
+I would like to replicate the DeOldify program, where it colorizes a black and white video. My minimum viable product would be a program that takes a BW photo and colorizes it. The main goal would be to expand it to a entire movie scene.
 
-<!-- * I would use a Convolutional Neural Network on this dataset and predict the value of a pile of coins. 
-  * The goals:
-    * Be able to use a picture of a pile of coins to get an estimate of its value (or hopefully use a camera dynamically).
-    * Return frequency of each coin. 
-  * Possible hurdles : 
-    * Since each target is a pile of coins, I might need to make a better dataset, where the feature matrix's data points are images of a pile. 
-    * The target would be the value of the coins. 
-    * Unless I find a better way, there might be deficiencies in using edge detection to measure depths from a 2d image (in the case of overlapping coins).               
-   
-Note: I want to do this one because it seems fun, but it doesn't seem to have much depth or application to a business-use case. I was thinking of a side-project
-      at the very least but would like an outside opinion if possible.
- -->
-### Proposal 2 : 
+Source of Idea : https://www.youtube.com/watch?v=h7GX3wEfxcg
 
-Dataset : 
 
-<!-- * I intend on using a large dataset of features (such as bars, tempo, etc.) of random songs and generate a model that can predict how well a new song will do.
-  * This original dataset is 300 gb large. I will be using a readily available 2.7gb worth of data to generate my feature matrix. 
-  * I will webscrape the historical records of Top Song Charts to use as my target matrix. 
-  * The goals: 
-    * Make a model that can predict how well a song will do on a Top Chart. 
-    * Find out which (if any) features are significant in making a hit. 
-  * EXTRA : Use web scraping for each song's lyrics and Natural Language Processing to see which ideas/sentiment float to the top of the charts. 
- -->
-### Proposal 3 : 
+### Proposal 2 : Forecasting Wildfires
 
-Dataset : 
-<!-- 
-* I would build a model that can differentiate between normal cells and myeloblasts(leukemia blast).
-  * The goal:
-    * A model that can flag worrisome cells a lot faster than a human can.  
+Dataset : https://www.kaggle.com/rtatman/188-million-us-wildfires
 
-(I intend to do all of these eventually, but would like to prioritze the most attractive project to prospective employers.) -->
+"In 2019 there were 50,477 wildfires compared with 58,083 wildfires in 2018, according to the National Interagency Fire Center (NIFC)."
+I would like to do a time series forecasting on Wildfires. The results will hopefully be useful in increasing response time which might prevent total area affected by wildfires. 
+
+### Proposal 3: Image Translator
+
+Source of Idea : https://ai.googleblog.com/2015/07/how-google-translate-squeezes-deep.html    &    https://lens.google/
+
+I will try to replicate this translator. The minimum viable product would be to translate one image into another language, for example an image of a stop sign. The further down goal would be to use the program to translate bits of the Rosetta Stone. 
+
+
+### Proposal 4 : GitHub Repo/Project Recommender System
+
+I would build a Flask Recommender System, that takes in your public github profile, reads some of the topics in the repos you have and suggests trendy projects to round out your online presence. There will be a section with online sentiment (if any) towards certain projects topics. For example, I thought of this project when reading random reddit posts on data science and one commenter said that he was sick and tire of seeing projects concerning the Titanic Dataset. 
+
