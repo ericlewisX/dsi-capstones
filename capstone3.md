@@ -4,7 +4,7 @@
 
 I would like to replicate the DeOldify program, where it colorizes a black and white video. My minimum viable product would be a program that takes a BW photo and colorizes it. The main goal would be to expand it to a entire movie scene.
 
-Source of Idea : https://www.youtube.com/watch?v=h7GX3wEfxcg
+Source of Idea : https://www.youtube.com/watch?v=h7GX3wEfxcg   &    https://github.com/jantic/DeOldify#what-is-nogan
 
 
 ### Proposal 2 : Image Translator
