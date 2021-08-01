@@ -25,5 +25,5 @@ I would like to do a time series forecasting on Wildfires. The results will hope
 
 ### Proposal 4 : GitHub Repo/Project Recommender System
 
-I would build a Flask Recommender System, that takes in your public github profile, reads some of the topics in the repos you have and suggests trendy projects to round out your online presence. There will be a section with online sentiment (if any) towards certain projects topics. For example, I thought of this project when reading random reddit posts on data science and one commenter said that he was sick and tire of seeing projects concerning the Titanic Dataset. 
+I would build a Flask Recommender System, that takes in your public github profile, reads some of the topics in the repos you have and suggests trendy projects to round out your online presence. There will be a section with online sentiment (if any) towards certain projects topics. For example, I thought of this project when reading random reddit posts on data science and one commenter said that he was sick and tired of seeing projects concerning the Titanic Dataset. 
 
