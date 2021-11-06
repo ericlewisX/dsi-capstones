@@ -1,5 +1,5 @@
 # Galvanize Data Science Immersive Capstones
-A repo solely for capstone proposals and links to the finished project or phases if the project had multiple steps to completion. 
+A repo solely for capstone proposals and links to the finished project or phases if the project had multiple steps to completion. .
 
 #### Capstone 1 Proposals - https://github.com/ericlewisX/dsi_capstones/blob/main/capstone1.md
 
